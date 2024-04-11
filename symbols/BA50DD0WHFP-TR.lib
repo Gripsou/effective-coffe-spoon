@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# BA50DD0WHFP-TR
+#
+DEF BA50DD0WHFP-TR U 0 30 Y Y 1 F N
+F0 "U" -300 430 50 H V L CNN
+F1 "BA50DD0WHFP-TR" -300 350 50 H V L CNN
+F2 "TiHive_Tx_custom:HRP5" 730 250 50 H I L CNN
+F3 "" 1150 0 50 H I L CNN
+F4 "ROHM Semiconductor" 730 -150 50 H I L CNN "Manufacturer"
+F5 "BA50DD0WHFP-TR" 730 -250 50 H I L CNN "Manufacturer Part Number"
+F6 "Linear Voltage Regulators 5V" 730 170 50 H I L CNN "Description"
+F7 "755-BA50DD0WHFP-TR" 730 50 50 H I L CNN "Mouser Part Number"
+F8 "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BA50DD0WHFP-TR?qs=4kLU8WoGk0sFpKnESpdNFg%3D%3D" 730 -50 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 -300 300 350 300 350 -300 -300 -300 -300 300 f
+X CTL 1 -400 100 100 R 50 50 0 0 P
+X VCC 2 -400 200 100 R 50 50 0 0 P
+X N.C./GND 3 100 -400 100 U 50 50 0 0 P
+X OUT 4 450 200 100 L 50 50 0 0 P
+X N.C. 5 -380 -90 80 R 50 50 0 0 N
+X GND 6 0 -400 100 U 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

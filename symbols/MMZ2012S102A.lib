@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MMZ2012S102A
+#
+DEF MMZ2012S102A L 0 40 Y Y 1 F N
+F0 "L" 0 200 50 H V C CNN
+F1 "MMZ2012S102A" 0 100 50 H V C CNN
+F2 "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder" 0 -100 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "TDK" 0 0 50 H I C CNN "Manufacturer"
+DRAW
+A -20 0 20 1 1799 1 1 0 N 0 0 -40 0
+A 20 0 20 1 1799 1 1 0 N 40 0 0 0
+P 2 1 1 0 -40 30 40 30 N
+X ~ 1 -100 0 58 R 50 50 1 1 P
+X ~ 2 100 0 58 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

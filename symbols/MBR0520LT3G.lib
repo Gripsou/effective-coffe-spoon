@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MBR0520LT3G
+#
+DEF MBR0520LT3G D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "MBR0520LT3G" 0 -100 50 H V C CNN
+F2 "Diode_SMD:D_SOD-123" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "ON Semiconductor" 0 0 50 H I C CNN "Manufacturer"
+F5 "MBR0520LT3G" 0 0 50 H I C CNN "Manufacturer Reference"
+F6 "863-MBR0520LT3G" 0 0 50 H I C CNN "Mouser Part Num."
+$FPLIST
+ TO-???*
+ *SingleDiode
+ *_Diode_*
+ *SingleDiode*
+ D_*
+$ENDFPLIST
+DRAW
+P 4 0 1 8 50 50 50 -50 -50 0 50 50 N
+P 6 0 1 8 -75 25 -75 50 -50 50 -50 -50 -25 -50 -25 -25 N
+X A A 150 0 100 L 50 50 1 1 P
+X K K -150 0 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

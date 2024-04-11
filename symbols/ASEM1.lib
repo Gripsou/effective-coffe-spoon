@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ASEM1
+#
+DEF ASEM1 U 0 25 Y Y 1 F N
+F0 "U" 0 150 50 H V L CNN
+F1 "ASEM1" 0 50 50 H V L CNN
+F2 "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm_HandSoldering" 1150 -1300 50 V I C CNN
+F3 "" 1150 -1300 50 V I C CNN
+F4 "ABRACON" 0 0 50 H I C CNN "Manufacturer"
+F5 "Standard Clock Oscillators 12.000MHZ 3.3V 50ppm -40 to 85C" 0 0 50 H I C CNN "Description"
+F6 "OSC_320x250" 0 0 50 H I C CNN "Case"
+F7 "OSC_320x250" 0 0 50 H I C CNN "JEDEC"
+F8 "ASEM1-12.000MHZ-LC-T" 0 0 50 H I C CNN "Manufacturer Reference"
+F9 "815-ASEM1-12.0-LCT" 0 0 50 H I C CNN "Mouser Part Num."
+DRAW
+S 0 0 600 -350 0 1 10 f
+X ~STANDBY 1 -150 -250 150 R 50 50 1 1 P
+X GND 2 750 -250 150 L 50 50 1 1 P
+X CLK 3 750 -100 150 L 50 50 1 1 P
+X VDD 4 -150 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
