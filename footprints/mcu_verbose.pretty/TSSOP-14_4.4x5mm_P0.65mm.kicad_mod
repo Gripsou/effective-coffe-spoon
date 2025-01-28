@@ -37,7 +37,7 @@
   (pad "12" smd roundrect (at 2.8625 -0.65) (size 1.475 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 29d5737c-97b8-460c-96e7-0012ba346662))
   (pad "13" smd roundrect (at 2.8625 -1.3) (size 1.475 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 23b1b64e-9cb9-4712-bcff-222667b03436))
   (pad "14" smd roundrect (at 2.8625 -1.95) (size 1.475 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cfac640d-b6cf-46c2-8ee3-3505787cc60d))
-  (model "${ELLENKOS_3DMODELS_DIR}/Ellenkos.3dshapes/TSSOP-14_4.4x5mm_P0.65mm.step"
+  (model "${KIPRJMOD}/3dmodels/mcu_verbose.3dshapes/TSSOP-14_4.4x5mm_P0.65mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

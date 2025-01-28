@@ -143,7 +143,7 @@
   (pad "L9" smd circle (at 1.5 2.5) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 173a9211-7b9c-4f46-a5c9-577d7a0af438))
   (pad "L10" smd circle (at 2 2.5) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d6bef7a6-be6c-4db0-ad6e-93d1537158d9))
   (pad "L11" smd circle (at 2.5 2.5) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 70b50571-d407-48b3-afae-13a08356854a))
-  (model "${EFFECTIVE_COFFEE_SPOON_LIB_DIR}/3dmodels/mcu_verbose.3dshapes/BGA121N50P11X11_600X600X100.step"
+  (model "${KIPRJMOD}/3dmodels/mcu_verbose.3dshapes/BGA121N50P11X11_600X600X100.step"
     (offset (xyz 0 0 -0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

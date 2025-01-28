@@ -126,7 +126,7 @@
   (pad "18" smd roundrect (at 2.95 -1.625) (size 1.5 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0e10d323-e1a0-46a7-92eb-b3a0eea9aaf4))
   (pad "19" smd roundrect (at 2.95 -2.275) (size 1.5 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp f6d253eb-4824-43ec-8308-6ebf629f0e32))
   (pad "20" smd roundrect (at 2.95 -2.925) (size 1.5 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0e02d051-8ae6-48aa-9f1d-ffbd46bd2956))
-  (model "${EFFECTIVE_COFFEE_SPOON_LIB_DIR}/3dmodels/mcu_verbose.3dshapes/TSSOP-20_6.5x4.40mm_P0.65mm.step"
+  (model "${KIPRJMOD}/3dmodels/mcu_verbose.3dshapes/TSSOP-20_6.5x4.40mm_P0.65mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

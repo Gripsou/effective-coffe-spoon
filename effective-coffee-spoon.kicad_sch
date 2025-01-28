@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c18e7f89-99c7-4386-b944-92eaee883efb)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Schematic is unused for this project\nsince it is only used for easy\nsymbol and footprint edition"
+    (at 88.9 101.6 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid 1a018756-a1a7-450a-abcd-ca1b5c88bb01)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

@@ -113,7 +113,7 @@
   (pad "PAD" thru_hole circle (at 0 -2.4) (size 0.8 0.8) (drill 0.4) (layers *.Cu) (tstamp 94a39489-cf51-4c0f-b886-1a3065eb3d5c))
   (pad "PAD" thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.4) (layers *.Cu) (tstamp b58f24e4-d792-4b2a-8faa-1f30aa599c8d))
   (pad "PAD" thru_hole circle (at 2.4 0) (size 0.8 0.8) (drill 0.4) (layers *.Cu) (tstamp c27a5921-a376-4a45-847a-4548b862cf7e))
-  (model "${EFFECTIVE_COFFEE_SPOON_LIB_DIR}/3dmodels/mcu_verbose.3dshapes/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.step"
+  (model "${KIPRJMOD}/3dmodels/mcu_verbose.3dshapes/QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

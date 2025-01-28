@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "mcu_verbose")(type "KiCad")(uri "${KIPRJMOD}/footprints/mcu_verbose.pretty")(options "")(descr "Associated footprints with verbose version of symbols"))
+)

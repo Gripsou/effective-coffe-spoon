@@ -40,7 +40,7 @@
     (solder_mask_margin 0.1016) (tstamp 1081920f-0f80-4fee-b3e3-c8b7dabbb4ed))
   (pad "8" smd roundrect (at 2.7 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (solder_mask_margin 0.1016) (tstamp 5cb0efb5-901d-45f2-a9da-35fa0cb6c86b))
-  (model "${EFFECTIVE_COFFEE_SPOON_LIB_DIR}/3dmodels/mcu_verbose.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
+  (model "${KIPRJMOD}/3dmodels/mcu_verbose.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

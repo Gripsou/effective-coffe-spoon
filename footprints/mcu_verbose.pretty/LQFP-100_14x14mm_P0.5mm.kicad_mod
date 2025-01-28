@@ -168,7 +168,7 @@
   (pad "98" smd roundrect (at -5 -7.675) (size 0.3 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e6f6baf3-5299-4bbc-b3d1-3792a2f4ecf2))
   (pad "99" smd roundrect (at -5.5 -7.675) (size 0.3 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 6c4f71cb-0302-47fa-914e-bd57b30a8af6))
   (pad "100" smd roundrect (at -6 -7.675) (size 0.3 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 16327cc4-af71-4303-a421-619e3fac8de7))
-  (model "${EFFECTIVE_COFFEE_SPOON_LIB_DIR}/3dmodels/mcu_verbose.3dshapes/LQFP-100_14x14mm_P0.5mm.step"
+  (model "${KIPRJMOD}/3dmodels/mcu_verbose.3dshapes/LQFP-100_14x14mm_P0.5mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
